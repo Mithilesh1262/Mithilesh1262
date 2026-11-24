@@ -1,12 +1,33 @@
-Hey there, Mithilesh Yadav! 👋
-🚀 IT Enthusiast | Problem Solver | Curious About Modern Web Technologies
-🔢 Mastering DSA & C++ — Combining logical reasoning with mathematical depth to craft optimal solutions.
-🧑‍💻 Passionate about the OOP paradigm and its ability to model real-world interactions. Constantly seeking opportunities to implement my skills in full-stack projects, eager to leverage modern frameworks like MERN and Next.js to build dynamic and robust applications.
+# <p align="center">Hey there, I'm Mithilesh Yadav! 👋</p>
 
-💡 I love untangling complex equations and applying math-driven logic to problem-solving
+<p align="center">
+  🚀 IT Enthusiast | Problem Solver | Curious About Modern Web Technologies
+</p>
 
-💬 Ask me about C++, DSA, OOPS, React, Express
+---
 
-📫 Reach me at mithilesh.ya01@gmail.com
+### 🔢 What I'm Learning
 
-[GitHub](https://github.com/Mithilesh1262) · [LeetCode](https://leetcode.com/u/MITHILESH1262/)
+- Mastering DSA & C++ — combining logical reasoning with mathematical depth to craft optimal solutions.
+- Exploring OOP concepts and their ability to model real-world interactions.
+- Building full-stack projects using modern technologies like MERN and Next.js.
+
+### 💡 What I Love
+
+I love untangling complex equations and applying math-driven logic to problem-solving.
+
+### 💬 Ask Me About
+
+C++ · DSA · OOPS · React · Express
+
+### 📫 Connect With Me
+
+- Email: mithilesh.ya01@gmail.com
+- [GitHub](https://github.com/Mithilesh1262)
+- [LeetCode](https://leetcode.com/u/MITHILESH1262/)
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
