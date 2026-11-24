@@ -1,25 +1,12 @@
-# Mithilesh Yadav
+Hey there, Mithilesh Yadav! 👋
+🚀 IT Enthusiast | Problem Solver | Curious About Modern Web Technologies
+🔢 Mastering DSA & C++ — Combining logical reasoning with mathematical depth to craft optimal solutions.
+🧑‍💻 Passionate about the OOP paradigm and its ability to model real-world interactions. Constantly seeking opportunities to implement my skills in full-stack projects, eager to leverage modern frameworks like MERN and Next.js to build dynamic and robust applications.
 
-**Full-Stack Developer | JavaScript · React · Node.js**
+💡 I love untangling complex equations and applying math-driven logic to problem-solving
 
-I build web applications that solve real problems. Currently focused on building with the MERN stack and sharpening my problem-solving skills.
+💬 Ask me about C++, DSA, OOPS, React, Express
 
-### Featured Work
-
-- **SipBlog AI** — AI-powered blogging platform using React, Node.js, MongoDB & Gemini API.
-- **FaceTrack Attendance** — Face recognition-based attendance system.
-- **DSA Patterns** — Practicing data structures and algorithms.
-
-### Tech Stack
-
-`JavaScript` `React` `Node.js` `Express.js` `MongoDB` `Python` `Git`
-
-### Currently
-
-- Building full-stack applications.
-- Improving JavaScript and DSA.
-- Exploring better ways to write clean, maintainable code.
-
-### Find Me
+📫 Reach me at mithilesh.ya01@gmail.com
 
 [GitHub](https://github.com/Mithilesh1262) · [LeetCode](https://leetcode.com/u/MITHILESH1262/)
